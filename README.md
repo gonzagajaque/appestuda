@@ -1,6 +1,9 @@
 <h1 align="center">
   APP DA ESTUDA - TEMAS DE REDAÇÃO
+  
 </h1>
+
+![](https://estuda.com/design/logo.png)
 
 <h4 align="center">Aplicação mobile desenvolvida para consumir uma API de temas de redação que liste o título e imagem
 de cada redação coletada</h4>
